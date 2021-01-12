@@ -1,0 +1,6 @@
+$ docker images |grep excercise3.5
+excercise3.5-back-alpine                latest       d061e94a67e4   14 seconds ago       129MB
+excercise3.5-front-alpine               latest       e435d9d9e4de   About a minute ago   327MB
+excercise3.5-front                      latest       387767849437   10 minutes ago       526MB
+excercise3.5-back                       latest       f530f2575236   11 minutes ago       332MB
+

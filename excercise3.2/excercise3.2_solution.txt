@@ -1,0 +1,8 @@
+GitHub repo
+https://github.com/zjokinen/dockerapplication
+
+Docker HUB repo
+https://hub.docker.com/repository/docker/zjokinen/dockerapplication
+
+Heroku App URL:
+https://limitless-mountain-21489.herokuapp.com/

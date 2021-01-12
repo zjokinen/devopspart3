@@ -1,0 +1,8 @@
+sakuj@LAPTOP-HDD455UU MINGW64 ~/OneDrive/devopswithdocker/part3/excercise3.1/frontend-example-docker (master)
+$ docker images  |grep excercise3.1
+excercise3.1_front_optimized            latest       3e6cf38644e1   2 days ago      494MB
+excercise3.1_back_optimized             latest       2c979ba679c0   2 days ago      299MB
+excercise3.1_back                       latest       076e7663cc87   2 days ago      332MB
+excercise3.1_front                      latest       142e59370605   2 days ago      527MB
+
+sakuj@LAPTOP-HDD455UU MINGW64 ~/OneDrive/devopswithdocker/part3/excercise3.1/frontend-example-docker (master)
